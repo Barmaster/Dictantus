@@ -51,3 +51,4 @@ C:\Users\Ilusa\Desktop\Новая папка (8)\Dictantus\Dictantus\obj\Debug\D
 C:\Users\Ilusa\Desktop\Новая папка (8)\Dictantus\Dictantus\obj\Debug\Dictantus.SplashScreen.resources
 C:\Users\Ilusa\Desktop\Новая папка (8)\Dictantus\Dictantus\obj\Debug\Dictantus.TeacherDictantForm.resources
 C:\Users\Ilusa\Desktop\Новая папка (8)\Dictantus\Dictantus\obj\Debug\Dictantus.csproj.GenerateResource.Cache
+C:\Users\Ilusa\Desktop\Новая папка (8)\Dictantus\Dictantus\obj\Debug\Dictantus.csprojResolveAssemblyReference.cache

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dictantus.AuthorizationModel">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAAAAAACAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Model\AuthorizationModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.ChoiseStudentModel" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAgBAACAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ChoiseStudentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.ChoiseTeacherModel" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgBAEAAAAACAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Model\ChoiseTeacherModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.DictantStudentModel" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAAIAAAAAgAgAAIAIAAABAAgAAQAAAAAQAAAA=</HashCode>
+      <FileName>Model\DictantStudentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.TeacherDictantModel" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAgABAAIAAAAABAAAAAQAAAQAQAAAA=</HashCode>
+      <FileName>Model\TeacherDictantModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.AuthorizationPresenter" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAQAAAAAAAAAQAAAAAAAAAAAAAAIAABAACAAgAAAA=</HashCode>
+      <FileName>Presenter\AuthorizationPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.ChoiseStudentPresenter" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCAAAAAAA=</HashCode>
+      <FileName>Presenter\ChoiseStudentPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.ChoiseTeacherPresenter" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAQAAAAAAAAAAAAAAAAAABAAAAAAAAAAACAAABAAA=</HashCode>
+      <FileName>Presenter\ChoiseTeacherPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.DictantStudentPresenter" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAQAEAAIAAAAAAAAAQAAAAAAAAAAAAAAACAAACAAA=</HashCode>
+      <FileName>Presenter\DictantStudentPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.TeacherDictantPresenter" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAQAAAAAAAAAAAAAAAAEABAAAAAAAAAAACAAACAAA=</HashCode>
+      <FileName>Presenter\TeacherDictantPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.Program" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.AuthorizationForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAACBACAAAAEBAACAAARCQCAiYAAABCAgAAIAAAE=</HashCode>
+      <FileName>View\AuthorizationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.ChoiseStudentForm" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAUAAAAABiAAAAKAAgAAAAAAAAAAoAAAAA=</HashCode>
+      <FileName>View\ChoiseStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.ChoiseTeacherForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAkAgCAQARAAAECIAAAKQAgAAAAgEAAEAgAAAAA=</HashCode>
+      <FileName>View\ChoiseTeacherForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.DictantStudentForm" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAwABAACiAAoAAAjADgAAACQgAQAgAAgwAAEBAAKAE=</HashCode>
+      <FileName>View\DictantStudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.SplashScreen" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAAAACAAAACAAAAAABAAAAAAAgAAAA=</HashCode>
+      <FileName>View\SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.TeacherDictantForm" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAkSCABAAABKACQAECCAAAAAABAAgAQAAACAAA=</HashCode>
+      <FileName>View\TeacherDictantForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.Properties.Resources" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAABBEAEQAQAIAAACAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictantus.Properties.Settings" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

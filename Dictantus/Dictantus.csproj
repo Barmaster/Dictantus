@@ -145,6 +145,7 @@
     <EmbeddedResource Include="View\TeacherDictantForm.resx">
       <DependentUpon>TeacherDictantForm.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
     <None Include="packages.config" />
     <None Include="Properties\DataSources\DictantusCore.Dictant.datasource" />
     <None Include="Properties\Settings.settings">
