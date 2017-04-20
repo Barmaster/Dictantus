@@ -1,0 +1,14 @@
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\DictantusCore.dll.config
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\DictantusCore.dll
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\DictantusCore.pdb
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\EntityFramework.dll
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\EntityFramework.SqlServer.dll
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\System.Data.SQLite.dll
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\System.Data.SQLite.EF6.dll
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\System.Data.SQLite.Linq.dll
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\EntityFramework.xml
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\EntityFramework.SqlServer.xml
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\bin\Release\System.Data.SQLite.xml
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\obj\Release\DictantusCore.dll
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\obj\Release\DictantusCore.pdb
+c:\users\ilusa\documents\visual studio 2015\Projects\Dictantus\DictantusCore\obj\Release\DictantusCore.csprojResolveAssemblyReference.cache
